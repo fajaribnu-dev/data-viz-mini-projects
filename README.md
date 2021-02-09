@@ -1,2 +1,2 @@
 # data-viz-mini-projects
-Every mini projects and practice that I've been doing 
+Every visualization mini projects and practices that I've been doing 
